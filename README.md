@@ -20,6 +20,7 @@ This will start the local Hugo server on port 1313. Open up your browser to http
 
 ## Get involved with SIG Docs
 
+
 Learn more about SIG Docs Kubernetes community and meetings on the [community page](https://github.com/kubernetes/community/tree/master/sig-docs#meetings).
 
 You can also reach the maintainers of this project at:
